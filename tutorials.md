@@ -1,6 +1,6 @@
 ## Coding Syntax Tutorials
-(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)[Markdown Format]
+[Markdown Format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Observable Tutorials
-(https://beta.observablehq.com/@mbostock/five-minute-introduction)[Introduction]
+[Introduction](https://beta.observablehq.com/@mbostock/five-minute-introduction)
 
